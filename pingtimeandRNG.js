@@ -26,4 +26,4 @@ function removeCommand(string) {
     args.shift()
     return args.join(" ")
 }
-bot.login('Mzc1OTg0NDYyMDkxMjU1ODEw.Wfxg0Q.WtdOAuZj-ZsLUMSROsPxjyf6goo'); 
+bot.login('xxx'); 
